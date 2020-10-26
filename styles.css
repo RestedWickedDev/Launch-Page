@@ -1,0 +1,32 @@
+footer {
+    padding: 1rem;
+    color: black;
+}
+
+.btn-primary {
+    border: 4px solid #ffffff;
+}
+
+.btn-primary:hover {
+    border: 4px solid #000000;
+    background-color: white;
+    color: black;
+}
+
+.jumbotron.text-center {
+    background-image: url("hero-background-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    color: white;
+}
+.jumbotron.text-center.mb-0 {
+    background-image: none;
+
+    color: black;
+}
+
+h1 {
+    color: white;
+}
